@@ -1,3 +1,2 @@
-# renginiu-sistema
-Renginių paieškos bei rezervavimo sistema 
-# Renginiu-informacine-sistema
+# Renginiu-rezervavimo-informacine-sistema
+
